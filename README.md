@@ -84,9 +84,6 @@ This portfolio piece demonstrates capabilities for:
 - [ ] Blog section integration
 - [ ] Portfolio gallery expansion
 
-## 🌌 Live Demo
-
-[Add your live demo link here]
 
 ## 📧 Contact
 
